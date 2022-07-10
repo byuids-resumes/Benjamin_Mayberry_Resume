@@ -1,91 +1,54 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Benjamin Mayberry CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Benjamin Mayberry
+Student, Computer enthusiast, Document Automation Specialist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Benjamin@Knackly.io">Benjamin@Knackly.io</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at BYU-I and Working as a Document Automation Specialist.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Automation of legal documents for law firms
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Makeing doucument automation faster.\
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected 2023`
+__BYU-I__, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Studying Computer Science
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jun 2021 - Present`
+__Document Automation Specialist__, Idaho Falls
 
-- Warden
-- Minted coins
+- Programmed documents using conditional statements, formulas, formatting, etc. for 22 clients
+- Developed and managed data and their relationships to create an efficient database structure
+- Managed 2 clients through conducting meeting and coordinating efforts to streamline and develop processes
+- Debugged automated documents to increase efficiency
+- Trained new employee how to use internal software
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
