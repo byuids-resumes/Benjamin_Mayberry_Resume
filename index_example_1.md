@@ -22,7 +22,7 @@ Automation of legal documents for law firms
 
 ### Research interests
 
-Makeing doucument automation faster.\
+Makeing doucument automation faster.
 
 
 ## Education
