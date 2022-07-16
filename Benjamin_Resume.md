@@ -7,7 +7,7 @@ Student, Computer enthusiast, Document Automation Specialist.
 
 <div id="webaddress">
     <a href="Benjamin@Knackly.io">Benjamin@Knackly.io</a>
-    <a href="www.linkedin.com/in/benjamin-mayberry">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/benjamin-mayberry/">LinkedIn</a>
     <a href="https://github.com/BenjaminMayberry">GitHub</a>
 </div>
 
